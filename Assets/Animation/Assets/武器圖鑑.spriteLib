@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 36
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: "\u6B66\u5668"
+    m_Hash: 1187990528
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: "\u68D2"
+      m_Hash: -922392510
+      m_Sprite: {fileID: -6649251808621677518, guid: 64f3db1267001b04682905fef522957f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6649251808621677518, guid: 64f3db1267001b04682905fef522957f, type: 3}
+    - m_Name: "\u528D"
+      m_Hash: 34423813
+      m_Sprite: {fileID: 8074480348392310476, guid: 0d81288048ff4b1409a39f2e9c6f32fc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8074480348392310476, guid: 0d81288048ff4b1409a39f2e9c6f32fc, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
