@@ -684,7 +684,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jumpforce: 5
+  jumpforce: 10
   isGround: 0
   checker: {fileID: 1772813934}
   GroundLayer:
